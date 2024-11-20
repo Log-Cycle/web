@@ -1,0 +1,9 @@
+.dashboardMapFirst {
+
+    height: calc(100vh - 64px);
+}
+
+.request-popup .leaflet-popup-content-wrapper {
+    border-radius: 0px;
+    width: 300px;
+  }
